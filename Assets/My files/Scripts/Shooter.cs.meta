@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2dc9f7f2ab9fa004c904d1d82a6da26e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cam: {instanceID: 0}
+  - projectilePrefab: {fileID: 1183884577445174, guid: 868f5ddc793b0334983a28b96af36a26,
+      type: 3}
+  - muzzlePrefab: {instanceID: 0}
+  - LHFirePoint: {instanceID: 0}
+  - RHFirePoint: {instanceID: 0}
+  - volume: {instanceID: 0}
+  - impulseSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
